@@ -37,7 +37,7 @@ async def bstats(client, message):
     • **ʙʀᴀɴᴄʜ** » **2.1.x@main**
     • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[𝐑𝐄𝐏𝐎](https://t.me/DEÀDLY_KANHA)**
     • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/KANHA_FEELINGS)**
-    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[𝐆𝐑𝐎𝐔𝐏](https://t.me/GROUP_HELP)**    
+    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[𝐆𝐑𝐎𝐔𝐏](https://t.me/KANHA_HELP)**    
     
     **ʙʏ @DEADLY_KANHA**
     """
