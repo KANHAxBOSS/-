@@ -34,7 +34,7 @@ async def gcch(client: Client, message: Message):
     split = message.command[2:]
     group_name = " ".join(split)
     bunny = await message.edit("ᴘʀᴏᴄᴇꜱꜱɪɴɢ....")
-    fuk = """ʙʏ - @STORM_CHATZ
+    fuk = """ʙʏ - @KANHA_HELP
 
 - ɢɪᴠᴇ ʀᴇꜱᴘᴇᴄᴛ ᴛᴀᴋᴇ ʀᴇꜱᴘᴇᴄᴛ
 
