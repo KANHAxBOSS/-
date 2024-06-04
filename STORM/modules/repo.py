@@ -30,11 +30,11 @@ async def repo(client, message):
     msg = f"""
     ** ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ **
 
-    • **ɢɪᴛʜᴜʙ** » [click here](https://github.com/VARC9210/STORM-USERBOT) 
-    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/STORM_CHATZ) 
-    • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/STORM_TECHH)
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/kexx_xd)
+    • **ɢɪᴛʜᴜʙ** » [click here](https://github.com/KANHAxBOSS/-.git) 
+    • **ꜱᴜᴘᴘᴏʀᴛ** » [click here](https://t.me/KANHA_HELP) 
+    • **ᴜᴘᴅᴀᴛᴇꜱ** » [click here](https://t.me/KANHA_FEELINGS)
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » [click here](https://t.me/DEADLY_KANHA)
     
-    **ʙʏ @kexx_xd**
+    **ʙʏ @DEADLY_KANHA**
     """
     await message.edit(msg)
