@@ -30,15 +30,15 @@ async def bstats(client, message):
     msg = f"""
     ** ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ **
 
-    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[Kᴜɴᴀʟ࿐](https://t.me/kexx_xd)**
+    • **ᴅᴇᴠᴇʟᴏᴘᴇʀ** » **[𝐊𝐀𝐍𝐇𝐀࿐](https://t.me/DEADLY_KANHA)**
     • **ᴠᴇʀꜱɪᴏɴ** » **2.1.0**
     • **ᴛᴏᴛᴀʟ ᴍᴏᴅᴜʟᴇꜱ** » **80+**
     • **ᴛᴏᴛᴀʟ ᴄᴏᴍᴍᴀɴᴅꜱ** » **107+**  
     • **ʙʀᴀɴᴄʜ** » **2.1.x@main**
-    • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[ꜱᴛᴏʀᴍ-ᴜꜱᴇʀʙᴏᴛ](https://github.com/VARC9210/STORM-USERBOT)**
-    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[ꜱᴛᴏʀᴍ ᴄʜᴀᴛᴢ](https://t.me/STORM_CHATZ)**
-    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[ꜱᴛᴏʀᴍ ᴛᴇᴄʜ](https://t.me/STORM_TECHH)**    
+    • **ᴜꜱᴇʀʙᴏᴛ ʀᴇᴘᴏ** » **[𝐑𝐄𝐏𝐎](https://t.me/DEÀDLY_KANHA)**
+    • **ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ** » **[𝐂𝐇𝐀𝐍𝐍𝐄𝐋](https://t.me/KANHA_FEELINGS)**
+    • **ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ** » **[𝐆𝐑𝐎𝐔𝐏](https://t.me/GROUP_HELP)**    
     
-    **ʙʏ @kexx_xd**
+    **ʙʏ @DEADLY_KANHA**
     """
     await message.reply(msg)
